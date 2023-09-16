@@ -5,5 +5,6 @@
         "xstring": "cpp",
         "xutility": "cpp",
         "utility": "cpp"
-    }
+    },
+    "python.analysis.typeCheckingMode": "basic"
 }
